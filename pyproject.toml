@@ -1,0 +1,5 @@
+[project]
+name = "wii-sangokushi11-to-pc-data"
+version = "0.1.0"
+description = "A tool to convert Wii Sangokushi 11 data to PC format"
+dependencies = []

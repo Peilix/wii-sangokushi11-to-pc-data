@@ -1,0 +1,1 @@
+"""Sangokushi XI scenario file converter package"""
